@@ -11,9 +11,8 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'Qual é o objetivo da programação?',
-    'escreve códigos simples e complexos por meio de linguagens de programação como HTML, Javascript, Python ou C++.'
+    'Quais são as vantagens da programação?',
+    'criar soluções para problemas através do desenvolvimento de instruções e algoritmos que podem ser executados por computadores.'
 )
 
 criaCartao(
